@@ -1,0 +1,536 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "title": "iPhone 11 64GB",
+      "price": 13950,
+      "color": "Siyah",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/49/400-592/10986385899570.jpg"
+        }
+      ],
+      "discountRate": 12,
+      "createdDate": "2022-07-02T17:51:41.382Z"
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "title": "iPhone 11 64GB",
+      "price": 13950,
+      "color": "Yeşil",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/49/400-592/10986390945842.jpg"
+        }
+      ],
+      "discountRate": 12,
+      "createdDate": "2022-07-02T17:51:42.382Z"
+    },
+    {
+      "id": 3,
+      "brand": "Apple",
+      "title": "iPhone 11 64GB",
+      "price": 14000,
+      "color": "Mor",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/74/400-592/110000016334984.jpg"
+        }
+      ],
+      "discountRate": 10,
+      "createdDate": "2022-07-02T17:51:43.382Z"
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "title": "iPhone 11 64GB",
+      "price": 14000,
+      "color": "Kırmızı",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/49/400-592/10986387275826.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 5,
+      "brand": "Apple",
+      "title": "iPhone 12 64GB",
+      "price": 18200,
+      "color": "Mor",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/74/1100/110000016334984.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 6,
+      "brand": "Apple",
+      "title": "iPhone 12 64GB",
+      "price": 18000,
+      "color": "Kırmızı",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/76/1100/110000018213470.jpg"
+        }
+      ],
+      "discountRate": 9,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 7,
+      "brand": "Apple",
+      "title": "iPhone 11 64GB",
+      "price": 18499,
+      "color": "Yeşil",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/76/1100/110000018213478.jpg"
+        }
+      ],
+      "discountRate": 6,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 8,
+      "brand": "Apple",
+      "title": "iPhone 12 64GB",
+      "price": 18399,
+      "color": "Mavi",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/76/1100/110000018213486.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 9,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy A53 5G 128GB",
+      "price": 7599,
+      "color": "Mavi",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/193/1100/110000160472866.jpg"
+        }
+      ],
+      "discountRate": 1,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 10,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy M23 5G 128GB",
+      "price": 4399,
+      "color": "Yeşil",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/187/1100/110000152450269.jpg"
+        }
+      ],
+      "discountRate": 1,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 11,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy S21 5G 128GB ",
+      "price": 9499,
+      "color": "Gri",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/54/1100/11185809129522.jpg"
+        }
+      ],
+      "discountRate": 2,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 12,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy S21 5G 128GB ",
+      "price": 9499,
+      "color": "Pembe",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/54/1100/11185809358898.jpg"
+        }
+      ],
+      "discountRate": 2,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 13,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy S21 5G 128GB ",
+      "price": 9499,
+      "color": "Beyaz",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/54/1100/11185809555506.jpg"
+        }
+      ],
+      "discountRate": 2,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 14,
+      "brand": "Xiaomi",
+      "title": "Xiaomi 12 Pro 256GB 12 GBRam",
+      "price": 24600,
+      "color": "Mor",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/222/550/110000201133194.jpg"
+        }
+      ],
+      "discountRate": 4,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 15,
+      "brand": "Xiaomi",
+      "title": "Xiaomi 12 Pro 256GB 12 GBRam",
+      "price": 24600,
+      "color": "Gri",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/222/550/110000201140189.jpg"
+        }
+      ],
+      "discountRate": 4,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 16,
+      "brand": "Xiaomi",
+      "title": "Xiaomi Mi 11 256GB",
+      "price": 19100,
+      "color": "Mavi",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/75/1100/110000017452932.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 17,
+      "brand": "Xiaomi",
+      "title": "Xiaomi Mi 11T Pro 256GB 8GB Ram ",
+      "price": 14900,
+      "color": "Mavi",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/132/1100/110000082692429.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 18,
+      "brand": "Xiaomi",
+      "title": "Xiaomi Mi 11T Pro 256GB 8GB Ram ",
+      "price": 14900,
+      "color": "Beyaz",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/132/1100/110000082497530.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 19,
+      "brand": "Xiaomi",
+      "title": "Xiaomi Mi 11T Pro 256GB 8GB Ram ",
+      "price": 14900,
+      "color": "Siyah",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/132/1100/110000082876954.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 20,
+      "brand": "Huawei",
+      "title": "Huawei P50 Pocket 256GB ",
+      "price": 22939,
+      "color": "Beyaz",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/189/550/110000153941070.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 21,
+      "brand": "Huawei",
+      "title": "Huawei P40 Pro 256GB",
+      "price": 19998,
+      "color": "Siyah",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/38/1100/10584867504178.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 22,
+      "brand": "Huawei",
+      "title": "Huawei P40 Pro 256GB",
+      "price": 19998,
+      "color": "Beyaz",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/38/1100/10584867373106.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 23,
+      "brand": "Huawei",
+      "title": "Huawei Nova 9 128GB 8GB Ram",
+      "price": 9199,
+      "color": "Siyah",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/141/550/110000094660760.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 24,
+      "brand": "Huawei",
+      "title": "Huawei Nova 9 128GB 8GB Ram",
+      "price": 9199,
+      "color": "Mavi",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/141/550/110000094614817.jpg"
+        }
+      ],
+      "discountRate": 8,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 25,
+      "brand": "Apple",
+      "title": "iPhone 13 256GB",
+      "price": 22699,
+      "color": "Siyah",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/189/1100/110000155170579.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 26,
+      "brand": "Apple",
+      "title": "iPhone 13 256GB",
+      "price": 22699,
+      "color": "Pembe",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/189/1100/110000155170597.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 27,
+      "brand": "Apple",
+      "title": "iPhone 13 256GB",
+      "price": 22699,
+      "color": "Beyaz",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/189/1100/110000155170588.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 28,
+      "brand": "Apple",
+      "title": "iPhone 13 256GB",
+      "price": 22699,
+      "color": "Mavi",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/189/1100/110000155170665.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 29,
+      "brand": "Apple",
+      "title": "iPhone 13 256GB",
+      "price": 22699,
+      "color": "Kırmızı",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/189/1100/110000155170656.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 30,
+      "brand": "Apple",
+      "title": "iPhone 13 256GB",
+      "price": 22699,
+      "color": "Yeşil",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/190/1100/110000156852286.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 31,
+      "brand": "Reeder",
+      "title": "Reeder P13 Blue Max Pro 256GB",
+      "price": 2639,
+      "color": "Beyaz",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/162/550/110000120861952.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 32,
+      "brand": "Reeder",
+      "title": "Reeder P13 Blue Max Pro 256GB",
+      "price": 2639,
+      "color": "Mavi",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/162/550/110000120862254.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 33,
+      "brand": "Reeder",
+      "title": "Reeder P13 Blue Max Pro 256GB",
+      "price": 2639,
+      "color": "Siyah",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/162/550/110000120861050.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 34,
+      "brand": "Reeder",
+      "title": "Reeder P13 Blue Max Pro 256GB",
+      "price": 2639,
+      "color": "Yeşil",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/162/550/110000120859300.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 35,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy S20 FE 256 GB ",
+      "price": 9200,
+      "color": "Beyaz",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/113/550/110000060955078.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 36,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy S20 FE 256 GB ",
+      "price": 9200,
+      "color": "Mavi",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/113/550/110000060955069.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 37,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy S20 FE 256 GB ",
+      "price": 9200,
+      "color": "Mor",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/113/550/110000060955063.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    },
+    {
+      "id": 38,
+      "brand": "Samsung",
+      "title": "Samsung Galaxy S20 FE 256 GB ",
+      "price": 9200,
+      "color": "Yeşil",
+      "images": [
+        {
+          "image": "https://productimages.hepsiburada.net/s/113/550/110000060955066.jpg"
+        }
+      ],
+      "discountRate": 5,
+      "createdDate": "2022-07-02T17:51:44.382Z"
+    }
+  ]
+}
