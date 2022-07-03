@@ -87,7 +87,7 @@
     {
       "id": 7,
       "brand": "Apple",
-      "title": "iPhone 11 64GB",
+      "title": "iPhone 12 64GB",
       "price": 18499,
       "color": "Yeşil",
       "images": [
@@ -96,7 +96,7 @@
         }
       ],
       "discountRate": 6,
-      "createdDate": "2022-07-02T17:51:44.382Z"
+      "createdDate": "2022-07-03T17:51:44.382Z"
     },
     {
       "id": 8,
@@ -110,7 +110,7 @@
         }
       ],
       "discountRate": 8,
-      "createdDate": "2022-07-02T17:51:44.382Z"
+      "createdDate": "2022-07-03T17:51:40.382Z"
     },
     {
       "id": 9,
@@ -124,7 +124,7 @@
         }
       ],
       "discountRate": 1,
-      "createdDate": "2022-07-02T17:51:44.382Z"
+      "createdDate": "2022-07-03T17:51:39.382Z"
     },
     {
       "id": 10,
@@ -138,7 +138,7 @@
         }
       ],
       "discountRate": 1,
-      "createdDate": "2022-07-02T17:51:44.382Z"
+      "createdDate": "2022-07-03T17:51:49.382Z"
     },
     {
       "id": 11,
